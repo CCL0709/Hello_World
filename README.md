@@ -10,6 +10,6 @@ Yup.
 
 This repository is built step by step in the tutorial.
 
-Now it includes some steps for GitHub. Thanks a lot!
+Now it includes some steps for GitHub.
 
-REQUIRE
+Have a nice day !
