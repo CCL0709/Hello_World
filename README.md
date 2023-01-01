@@ -12,8 +12,6 @@ This repository is built step by step in the tutorial.
 
 Now it includes some steps for GitHub.
 
-Wish you a nice day ! 
+May I learn more about you ? 
 
-HAHA
-
-^ ^ 
+Thanks a lot!
