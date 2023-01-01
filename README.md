@@ -12,4 +12,8 @@ This repository is built step by step in the tutorial.
 
 Now it includes some steps for GitHub.
 
-Have a nice day !
+Wish you a nice day ! 
+
+HAHA
+
+^ ^ 
